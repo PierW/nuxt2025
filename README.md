@@ -38,6 +38,8 @@ yarn dev
 bun run dev
 ```
 
+Con Drizzle ORM e ORM lanciare da terminale `npx drizzle-kit push` e `npx drizzle-kit studio`
+
 ## Production
 
 Build the application for production:
